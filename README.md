@@ -44,4 +44,20 @@ Tarefas:
 - [ ] Comprar leite
 - [x] Estudar Markdown
 
+Referências
+
+Imagem - Basta colar o link de referência
+
+Para ver a *Elfa* [clique aqui](https://github.com/MONTANHA702/Ola-Mundo/blob/main/Elfa.png)
+
+Se quiser trazer a imagem diretamente para o README **coloque uma '!' antes do link.**
+
+Para saber mais:
+
+Pesquise no material do  [Professor Gustavo Guanabara](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
+ou
+
+veja também o material do Gustavo Mendel [Guia definitivo de Markdown](https://github.com/mende1/guia-definitivo-de-markdown)
+
+
    
