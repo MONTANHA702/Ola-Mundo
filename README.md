@@ -46,6 +46,13 @@ Tarefas:
 
 Referências
 
+Imagem - Basta colar o link de referência
+
+![](https://github.com/MONTANHA702/Ola-Mundo/blob/main/Elfa.gif)
+
+Para saber mais:
+
+Pesquise no material do  ![Professor Gustavo Guanabara](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
 
 
    
