@@ -72,6 +72,15 @@ print(f'A soma de {a} com {b} vale {c}')
 print('FIM')
 ```
 ***
+Emojis
+🖖
+🔥
+🧊
+
+Para saber mais [Clique aqui](github.com/ikatyang)
+
+
+***
 Imagem - Basta colar o link de referência
 
 Para ver a *Elfa* [clique aqui](https://github.com/MONTANHA702/Ola-Mundo/blob/main/imagem_download/Elfa.png)
