@@ -77,7 +77,7 @@ Emojis
 🔥
 🧊
 
-Para saber mais [Clique aqui](https://github.com/ikatyang)
+Para saber mais [Clique aqui](https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file#smileys--emotion)
 
 
 ***
