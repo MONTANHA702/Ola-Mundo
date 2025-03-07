@@ -48,7 +48,7 @@ Referências
 
 Imagem - Basta colar o link de referência
 
-Para ver a *Elfa* [clique aqui](https://github.com/MONTANHA702/Ola-Mundo/blob/main/Elfa.png)
+Para ver a *Elfa* [clique aqui](https://github.com/MONTANHA702/Ola-Mundo/blob/main/imagem_download/Elfa.png)
 
 Se quiser trazer a imagem diretamente para o README **coloque uma '!' antes do link.**
 
