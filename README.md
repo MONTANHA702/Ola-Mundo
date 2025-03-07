@@ -52,7 +52,7 @@ Imagem - Basta colar o link de referência
 
 Para saber mais:
 
-Pesquise no material do  ![Professor Gustavo Guanabara](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
+Pesquise no material do  [Professor Gustavo Guanabara](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
 
 
    
