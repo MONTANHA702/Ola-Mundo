@@ -7,7 +7,7 @@ Essa linha foi feita diretamente no site.
 
 Aproveitando para treinar um pouco de __*Markdown*__
 
-1. Títulos:
+Títulos:
    # Título
    ## Título
    ### Título
@@ -19,6 +19,29 @@ Exemplo:
 ## Título
 ***
 Texto.
+***
 
+Listas:
+
+1. Um
+1. Dois
+999. Três
+     1. quatro espaços
+1. Quatro
+
+Tópicos:
+
+* Opção 1
+* Opção 2
+  * Opção 2.1
+* Opção 3
+  * Opção 3.1
+  * Opção 3.2
+
+Tarefas:
+
+- [ ] Levar o cachorro para passear
+- [ ] Comprar leite
+- [x] Estudar Markdown
 
    
