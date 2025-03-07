@@ -77,7 +77,7 @@ Emojis
 🔥
 🧊
 
-Para saber mais [Clique aqui](github.com/ikatyang)
+Para saber mais [Clique aqui](https://github.com/ikatyang)
 
 
 ***
