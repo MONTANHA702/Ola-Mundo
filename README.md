@@ -44,7 +44,20 @@ Tarefas:
 - [ ] Comprar leite
 - [x] Estudar Markdown
 
-Referências
+Tabela:
+
+Para construir uma tabela usa-se pipe.
+
+Exemplo
+
+NOME|IDADE|COR
+---|---|---
+Jader|100|Azul
+Hilda|50|Verde
+
+Fim da tabela.
+
+Referências:
 
 Imagem - Basta colar o link de referência
 
